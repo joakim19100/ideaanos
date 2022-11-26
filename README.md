@@ -1,16 +1,14 @@
-<!-- This is the markdown template for the final project of the Building AI course, 
-created by Reaktor Innovations and University of Helsinki. 
-Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# koiran koivet
 
 Final project for the Building AI course
 
 ## Summary
+Building AI course project
+no joo kiva juttuhan tää oli loppuen lopuks aika aikaa vievä case mutta minkäs teet näin opiskelijana. Kiva viikko ollut tämän parissa ja haasteita riittää. nyt pitäisi 250 merkkiä pitkä teksti kirjotella mutta ideat aika vähissä. Create a clear picture of your project with images like charts, screenshots or photos. To add files, go to the start of your project repository.
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
-
+##README
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
