@@ -1,0 +1,2 @@
+# ideaanos
+my new project
